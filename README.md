@@ -1,1 +1,1 @@
-### This is a Recatjs Chat application
+### This is a Reactjs Chat application
