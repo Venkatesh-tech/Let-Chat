@@ -1,4 +1,4 @@
 ### This is a Reactjs Chat application
-#Tech stack
+# Tech stack
 # React
 # Firebase
